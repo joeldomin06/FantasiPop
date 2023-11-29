@@ -7,10 +7,6 @@ Este es el repositorio del grupo 9 NED's, cuyos integrantes son:
 * Integrante 3: Sebastian Naranjo H. - 201973614-0
 * **Tutor**: Christian Riquelme
 
-## Wiki
-
-Puede acceder a la wiki mediante el siguiente [enlace](https://gitlab.inf.utfsm.cl/pablo.estobar/inf225-2022-2-grupo-09/-/wikis/home) 
-
 # Videos
 
 - [Presentación del contexto del negocio](https://youtu.be/NC5jpBDBrCM)
